@@ -1,0 +1,39 @@
+---
+class: 4
+flags: 0x0000
+unid: OF09EEE72CBA269FBF-ON00488A4685256722
+items:
+  - name: $Flags
+    type: text
+    data: 34CiQ
+  - name: $ImageNames
+    type: text
+    data: outline.gif
+    signed: true
+  - name: $ImagesColorize
+    type: number
+    data: 0
+    signed: true
+  - name: $ImagesHigh
+    type: number
+    data: 1
+    signed: true
+  - name: $ImagesWide
+    type: number
+    data: 1
+    signed: true
+  - name: $LANGUAGE
+    type: text
+    data: en
+    signed: true
+  - name: $TITLE
+    type: text
+    data:
+      - outline.gif
+      - outline.gif
+    signed: true
+  - name: $ImageData
+    type: composite
+    signed: true
+    nonsummary: true
+remaining: []

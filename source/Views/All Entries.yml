@@ -1,0 +1,2773 @@
+---
+class: 32776
+flags: 0x0000
+unid: OFA827C019F5B2CBF2-ON00057D308525624B
+items:
+  - name: $Collation
+    type_num: 2
+    type: opaque
+    opaque: EQABAABEAGYAAAAEACQxMTY=
+  - name: $Collation1
+    type_num: 2
+    type: opaque
+    opaque: EAABAABEAGYAAAADACQ1Mg==
+  - name: $Collation2
+    type_num: 2
+    type: opaque
+    opaque: EAABAABEAWYAAAADACQ1Mg==
+  - name: $Collation3
+    type_num: 2
+    type: opaque
+    opaque: FgABAABEAGYAAAAJAERpYXJ5RGF0ZQ==
+  - name: $Collation4
+    type_num: 2
+    type: opaque
+    opaque: FgABAABEAWYAAAAJAERpYXJ5RGF0ZQ==
+  - name: $Collation5
+    type_num: 2
+    type: opaque
+    opaque: EAABAABEgGYAAAADACQzOQ==
+  - name: $Collation6
+    type_num: 2
+    type: opaque
+    opaque: EAABAABEAGYAAAADACQ0NA==
+  - name: $Collation7
+    type_num: 2
+    type: opaque
+    opaque: EAABAABEAWYAAAADACQ0NA==
+  - name: $Collation8
+    type_num: 2
+    type: opaque
+    opaque: IAACAAJEAWYAAAADAAFmAAMACQAkOTdEaWFyeURhdGU=
+  - name: $Comment
+    type: text
+    data: ""
+    signed: true
+  - name: $DesignerVersion
+    type: text
+    data: 8.5.3
+    signed: true
+  - name: $Flags
+    type: text
+    data: Y
+  - name: $FormFormula
+    type: formula
+    data: "@If(Form=\"CleanSheet\";\"JournalEntry\";Form)"
+    opaque: |
+      VAAAAEYABQAEAEZvcm0BAAoAQ2xlYW5TaGVldAoCrwAmABYAAQAMAEpvdXJuYWxFbnRyea4AEAAFAAQA
+      Rm9yba4ABAC1AwMABwAMAAUACTBTMEUA
+    signed: true
+  - name: $Formula
+    type: formula
+    data: " @All"
+    opaque: |
+      tgECAA4ABAAkMTE2aQADAAIAMAADACQ1MQABABgAIFByZXZpb3VzIHZlcnNpb24gYXMgb2YgaQBLAVYB
+      IgIDAAEAJAAQAE5vVEl0bGUAGEJGAMZzJQABAAgAVW50aXRsZWQDAAIATgADACQ1MgAFAAcAU3ViamVj
+      dAABAAAACwKvAC4AEgAFAAcAU3ViamVjdACuABwABQAQAE5vVGl0bGUAGEJGAMZzJQCuAAQAtQMDAAIA
+      IAAJAERpYXJ5RGF0ZQAFAAkARGlhcnlEYXRlAAMAAgAiAAMAJDM5AAUACgBDYXRlZ29yaWVzAQACADsg
+      hQIDAAIANgADACQ0NACkAAUACwBUaW1lQ3JlYXRlZAALAq8AFAAIAKQArgAMAAEAAACuAAQAtQMDAAIA
+      MgADACQ5NwByAK8AIgAQAAAAAAAAAAAAFECuABIAAAAAAAAAAAAAAK4ABAC1AwMABQBEAD8ACQAEAAMA
+      AwAJAAMAAwADAAkABAAkMTE2JDUxJDUyRGlhcnlEYXRlJDM5JDQ0JDk3JENvbmZsaWN0JFJFRgAEAAQA
+      AAAIAGYAAwAHAAoABAAJTDFT
+    signed: true
+  - name: $FormulaClass
+    type: text
+    data: "1"
+    signed: true
+  - name: $Index
+    type: text
+    data: ""
+    signed: true
+  - name: $LANGUAGE
+    type: text
+    data: en
+    signed: true
+  - name: $Revisions
+    type: time
+    data: "2012-07-02T05:26:11.77-04:00"
+    dst: true
+  - name: $TITLE
+    type: text
+    data: All Entries|($All)
+    signed: true
+  - name: $VIEWFORMAT
+    type_num: 5
+    type: opaque
+    opaque: |
+      AQAKADYAmAwAAFZDCQAEAAAAEAAAAAgAAQAACQAAAAAAAAAAAAICAAAAVkNIAAQAAAAkABcADwABAAAK
+      AgABAG0AAAAAAAIAABBWQ0ggAwAAABoADgAMAAEAAAoAAAAACAAAAAACAgAAEFZDkAQDAAAAwgAAAAgA
+      AQAACQAAAAAAAAAAAAACAAAAVkMAAwMACACQAAAAkAABAAAJAAACAAAAAAAAAAIAAABWQwAADQAGACAA
+      CgBAAAEAAAkAAAAAAAAAAAACAgAAIFZDAAMJAAoAIgAAADgAAQAACQAAAgAAAAABAAICAAAgVkMAAQMA
+      CAAuAAAAgAABAAAJAAAAAAAAAAAAAgIAADBWQwADAwANAEQAAABgAAEAAAkAAAIAAAAAAQACAgAAIFZD
+      wDIDAAAAQAAAAAoAAQAACQIAAAAAAAAAAAICAAAAJDExNhAAAgAOAAQAJDExNmkAAwAkMTA4JAACACIA
+      BAAkMTA4AQARAGNvbDEybm90ZWJvb2suZ2lmAAMAAQUBABEAY29sMTJub3RlYm9vay5naWYkdnYaAAIA
+      GAAFACQ4Ni0yAAAAAAAAAAAAAAADAAEDAQAAAAAAAAAAAAAAJDUxwgAHAHwAdgBUaGlzIGNvbHVtbiBp
+      cyBhdmFpbGFibGUgZm9yIGJhY2t3YXJkLWNvbXBhdGliaWxpdHkgd2l0aCB0aGUgUjQgam91cm5hbCB0
+      ZW1wbGF0ZSwgd2hpY2ggc3VwcG9ydGVkIERvY3VtZW50IFZlcnNpb25pbmcuBwAKAAMACTFTAAIAMAAD
+      ACQ1MQABABgAIFByZXZpb3VzIHZlcnNpb24gYXMgb2YgaQBLAVYBIgIDAAcACgAEAAkwUlIkNTJTdWJq
+      ZWN0IJAAAQAkABAATm9USXRsZQAYQkYAxnMlAAEACABVbnRpdGxlZAMABwAOAAcACTFTMkUyUwACAE4A
+      AwAkNTIABQAHAFN1YmplY3QAAQAAAAsCrwAuABIABQAHAFN1YmplY3QArgAcAAUAEABOb1RpdGxlABhC
+      RgDGcyUArgAEALUDAwAHAA4ACAAJMFJSM1M0UyRUaHJlYWRzRW1iZWRGb2xkZXIgAAoABAACABoADQAk
+      VGhyZWFkc0VtYmVkAPsAdQEDAAEFAQAEAH8kMP9EaWFyeURhdGVFbnRyeSBEYXRlIgACACAACQBEaWFy
+      eURhdGUABQAJAERpYXJ5RGF0ZQADACQzOUNhdGVnb3J5LgACACIAAwAkMzkABQAKAENhdGVnb3JpZXMB
+      AAIAOyCFAgMABwAKAAMACTRTACQ0NE1vZGlmaWVkIERhdGVEAAIANgADACQ0NACkAAUACwBUaW1lQ3Jl
+      YXRlZAALAq8AFAAIAKQArgAMAAEAAACuAAQAtQMDAAcADAAFAAkzUzRTACQ5N0AAAgAyAAMAJDk3AHIA
+      rwAiABAAAAAAAAAAAAAUQK4AEgAAAAAAAAAAAAAArgAEALUDAwAHAAwABQAJNFM2UwAmAAEAAAABAQAJ
+      AQACCgEBBAoAAAEArSsDAQEAAQAAAAAAAAAAAFdDAgAACQAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAP//
+      AAAAAAAAAAAAAAAAAABXQwIAAAkAAAAAAAAAAAAAAAAAAAAAAAAIlRoBAAD//wAAAAAAAAAAAAAAAAAA
+      V0MBAAAJAAAAAAAAAAAAAAAAAAAAAAAAwJAAAAAA//8AAAAAAAAAAAAAAAAAAFdDAgAACQAAAAAAAAAA
+      AAAAAAAAAAAAAACAAAAAAP//AAAAAAAAAAAAAAAAAABXQwIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAgAAA
+      AAD//wAAAAAAAAAAAAAAAAAAV0MCAAAJAAAAAAAAAAAAAAAAAAAAAAAACIBAAAAA//8AAAAAAAAAAAAA
+      AAAAAFdDAgAACQAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAP//AAAAAAAAAAAAAAAAAABXQwIAAAkAAAAA
+      AAAAAAAAAAAAAAAAAgAEgAAAAAD//wAAAAAAAAAAAAAAAAAAV0MCAAAJAAAAAAAAAAAAAAAAAAAAAAAA
+      AIAAAAAA//8AAAAAAAAAAAAAAAAAAFdDAgAACQAAAAAAAAAAAAAAAAAAAAAGAACQAAAAAP//AAAAAAAA
+      AAAAAAAAAABCAAEIAAABAP///wABAP///wABAPHx8QAAAAEAAAABAAEA////AAEA8vT1AAEAAQD/AAAA
+      AQAAAP8AAQAAAAAAAAAaAQoABAAHAEQAPQAgVGVzdCBpZiB0aGlzIGlzIHZlcnNpb24gNi4xIG9mIE5v
+      dGVzIGFuZCA2LjEgb2YgdGhlIHRlbXBsYXRlAAcACgADAAkxUwABAGYACABPa1RvU2hvd78AAAAAAAAA
+      AABoQFYBDgKvAEQAEAAAAAAAAAAAAAAArgA0AAEABgA2NTBMaWP7AWcBrwAiABAAAAAAAAAAAADwP64A
+      EgAAAAAAAAAAAAAArgAEALUFAwAHACAAGQAJMFIxUzJTNVM2UzExUzJFMTNTMThTMjBTAAAALgAFAAgA
+      T2tUb1Nob3cAAAAAAAAAAPA/CwIFAAgAT2tUb1Nob3daAR0CAwAHABIACwAJMFIxUzJTM1M0UwBAAAoA
+      BAAAACoAvwAAAAAAAAAAwHJAVgEOAvsABQEBAAUATm90ZXMACgIeAR0CAwAHABAACQAJMVMyUzZTN1MA
+      CAAAAAAAAQBYQwAMgAIAAAAAAAECAgIBAQEBBwQDAAAAAAAAAAAgLy86WUMAAAgAAAABAAAAAQAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAC4sJAoAVHlwZSBpY29ucxYAaGlkZGVuRm9y
+      VmVydGlmY2FsVmlldxAAQXR0YWNobWVudCBpY29uc2FDlAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACRNYXNr
+      U2VsZWN0aW9uQ29sb3I9dHJ1ZSwkU2hvd0dyYWRpZW50Q29sb3I9dHJ1ZSwkU2hvd0dyYXk9dHJ1ZQBh
+      Q6wAAAAAAAAAAQBXAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkTWFza1NlbGVjdGlvbkNvbG9yPXRydWUsJFNob3dHcmFkaWVu
+      dENvbG9yPXRydWUsJFNob3dHcmF5PXRydWUsJFVuaGlkZVdoZW5XcmFwcGVkPXRydWUAYUNUAAAAAAAA
+      AAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAYUNoAAQAAAAAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJEV4cGFuZE5vUmVzaXplPXRydWVh
+      Q1QAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABhQ3gAAAAAAAAAAgAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkV3JhcEFmdGVyQ2hh
+      cnM9Ny41LCREYXRlQ29sdW1uPXRydWVhQ1QABAAAAAAAAQAAAAAAAgACAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABhQ1QAAAAAAAAAAAAA
+      AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAABhQ3QACAAAAAAAAQAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkVHlwZUhlYWRlckljb249aW5kZXg6Y29s
+      aWNvbjE6NAA=
+    signed: true
+    nonsummary: true
+  - name: $WebFlags
+    type: text
+    data: B
+    signed: true
+  - name: $V5ACTIONS
+    type: composite
+    signed: true
+    nonsummary: true
+    data:
+      - type: 0x00bd
+        BackColor: 216
+        BorderStyle: 1
+        BorderWidth: 0
+        BtnHeight: 8
+        FontID: 0x09970002
+        HeightSpc: 5
+        LineColor: 0
+        LineStyle: 1
+        ShareID: 0x00000000
+        dwFlags: 0x000060a5
+      - type: 0xff79
+        BackColor:
+          Flags: 0x0001
+          rgb: 0xb0c8e0
+        BtnBorderDisplay: 0
+        BtnTextJustify: 0
+        BtnWidthStyle: 0
+        ButtonColor:
+          Flags: 0x0001
+          rgb: 0xd2d2d2
+        FontColor:
+          Flags: 0x0001
+          rgb: 0x004080
+        LineColor:
+          Flags: 0x0001
+          rgb: 0x000000
+        Spare:
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+        barFontID: 0x03000002
+        barHeight:
+          Flags: 0x0000
+          Length:
+            - 205
+            - 204
+            - 204
+            - 204
+            - 204
+            - 204
+            - 36
+            - 64
+          Reserved: 0
+          Units: 5
+        dwFlags: 0x00000003
+        wAppletHeight: 31
+        wBarBackgroundRepeat: 3
+        wBtnInternalMargin: 0
+        wBtnWidthAbsolute: 0
+        wSpare: 0x0000
+        wThemeSetting: 0
+      - type: 0xff71
+        opaque: cf8yAAAAAAADABMAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAHZpZXdHcmFkaWVudC5naWY=
+      - type: 0xfffc
+        BorderFlags: 0
+        BorderStyle: 1
+        BorderWidthBottom: 2
+        BorderWidthLeft: 0
+        BorderWidthRight: 0
+        BorderWidthTop: 0
+        Color:
+          Flags: 0x0001
+          rgb: 0xa9c0d7
+        DropShadowWidth: 0
+        Flags: 0x00000000
+        InnerWidthBottom: 0
+        InnerWidthLeft: 0
+        InnerWidthRight: 0
+        InnerWidthTop: 0
+        OuterWidthBottom: 0
+        OuterWidthLeft: 0
+        OuterWidthRight: 0
+        OuterWidthTop: 0
+        dwSpare: 0x00000000
+        wSpares:
+          - 0x0000
+          - 0x0000
+          - 0x0000
+          - 0x0000
+          - 0x0000
+      - type: 0xffbe
+        Flags: 0x0401619c
+        IconIndex: 0
+        ShareId: 61
+        Type: 1
+        data: |
+          @SetProfileField("tempvars"; "viewtitle"; "($All)");
+          @Command([Compose]; "JournalEntry")
+        data_opaque: |
+          aAAIACwAAQAIAHRlbXB2YXJzAQAJAHZpZXd0aXRsZQABAAYAKCRBbGwp+AMDAAcADAAFAAk0UzZTAAAA
+          IgACAOgDAAAAAAAAAQAMAEpvdXJuYWxFbnRyee0CAwAHAAwABQAJMFI0UwA=
+        title: New Shared Notebook Shortcut Key
+      - type: 0xff5e
+        opaque: Xv8uAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAFtzaG9ydGN1dGtleV1bTmV3XQ==
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 12
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 1
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 2
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 11
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 20
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 9
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 8
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 10
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 3
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 6
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 7
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 5
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 4
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x2000011f
+        IconIndex: 30
+        ShareId: 0
+        Type: 1
+        data: |
+          @SetProfileField("tempvars"; "viewtitle"; "($All)");
+          @Command([Compose]; "JournalEntry")
+        data_opaque: |
+          aAAIACwAAQAIAHRlbXB2YXJzAQAJAHZpZXd0aXRsZQABAAYAKCRBbGwp+AMDAAcADAAFAAk0UzZTAAAA
+          IgACAOgDAAAAAAAAAQAMAEpvdXJuYWxFbnRyee0CAwAHAAwABQAJMFI0UwA=
+        hidewhen: |
+          ecl := @If(@IsError(@IsUsingJavaElement);0;@IsUsingJavaElement; 1; 0);
+          ecl = 0
+        hidewhen_opaque: |
+          jgAKAAQAAQBOAAMAZWNsAPsAdAFaAa8AOgAQAAAAAAAAAAAAAACuACoA+wB0Aa8AIgAQAAAAAAAAAAAA
+          8D+uABIAAAAAAAAAAAAAAK4ABAC1BQMABwASAAsACTFTMlMxM1MxNVMAAAAaAAUAAwBlY2wAAAAAAAAA
+          AAAAAAoCAwAHAA4ABwAJMFIxUzJTAA==
+        title: "New\\New - Notebook Entry"
+      - type: 0xff5e
+        opaque: Xv82AAAAAAAAAAAAGgAAAAAAAAAAAAAAAAAAABoAAAAYAAEADgBOb3RlYm9vayBFbnRyeQMA
+      - type: 0xffbe
+        Flags: 0x2001001b
+        IconIndex: 0
+        ShareId: 38
+        Type: 1
+        hidewhen: |
+          REM {new - menu};
+          ecl := @If(@IsError(@IsUsingJavaElement);0;@IsUsingJavaElement; 1; 0);
+          ecl = 0
+        hidewhen_opaque: |
+          qgAKAAQABwAQAAoAbmV3IC0gbWVudQcACgADAAkxUwABAE4AAwBlY2wA+wB0AVoBrwA6ABAAAAAAAAAA
+          AAAAAK4AKgD7AHQBrwAiABAAAAAAAAAAAADwP64AEgAAAAAAAAAAAAAArgAEALUFAwAHABQADQAJMFIx
+          UzJTMTNTMTVTAAAAGgAFAAMAZWNsAAAAAAAAAAAAAAAKAgMABwAOAAcACTBSMVMyUwA=
+        title: "New\\<spacer>"
+      - type: 0xff5e
+        opaque: Xv8cAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA==
+      - type: 0xffbe
+        Flags: 0x2001001b
+        IconIndex: 30
+        ShareId: 35
+        Type: 2
+        data: |
+          '++LotusScript Development Environment:2:5:(Options):0:74
+          Use "MailLibrary"
+          '++LotusScript Development Environment:2:5:(Forward):0:1
+          Declare Sub Click(Source As Button)
+          
+          '++LotusScript Development Environment:2:5:(Declarations):0:2
+          
+          '++LotusScript Development Environment:2:2:BindEvents:1:129
+          Private Sub BindEvents(Byval Objectname_ As String)
+          	Static Source As BUTTON
+          	Set Source = Bind(Objectname_)
+          	On Event Click From Source Call Click
+          End Sub
+          
+          '++LotusScript Development Environment:2:2:Click:1:12
+          Sub Click(Source As Button)
+          	
+          	'instantiate objects     
+          	InstantiateVariables
+          	
+          	Set mailnote = New NotesDocument(maildb)
+          	
+          	'mailnote.SendTo = SendToNames
+          	mailnote.Form = "Memo"
+          	Call mailnote.replaceitemvalue("$VersionOpt", "6")
+          	mailnote.Logo = profile.DefaultLogo(0)
+          	mailnote.Principal = profile.Owner(0)
+          	
+          	Call ws.EditDocument(True,mailnote)
+          End Sub K
+        hidewhen: |
+          ecl := @If(@IsError(@IsUsingJavaElement);0;@IsUsingJavaElement; 1; 0);
+          ecl = 0
+        hidewhen_opaque: |
+          jgAKAAQAAQBOAAMAZWNsAPsAdAFaAa8AOgAQAAAAAAAAAAAAAACuACoA+wB0Aa8AIgAQAAAAAAAAAAAA
+          8D+uABIAAAAAAAAAAAAAAK4ABAC1BQMABwASAAsACTFTMlMxM1MxNVMAAAAaAAUAAwBlY2wAAAAAAAAA
+          AAAAAAoCAwAHAA4ABwAJMFIxUzJTAA==
+        title: "New\\New Message"
+      - type: 0xff5e
+        opaque: Xv8wAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAAABQAAAASAAEABwBNZXNzYWdlAAMA
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 2
+        wEventId: 213
+        wPlatform: 1
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 2
+        wEventId: 12091
+        wPlatform: 1
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 12
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 1
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 2
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 11
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 20
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 9
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 8
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 10
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 3
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 6
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 7
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 5
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 4
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x2001001b
+        IconIndex: 30
+        ShareId: 34
+        Type: 2
+        data: |
+          '++LotusScript Development Environment:2:5:(Options):0:74
+          Use "MailLibrary"
+          '++LotusScript Development Environment:2:5:(Forward):0:1
+          Declare Sub Click(Source As Button)
+          
+          '++LotusScript Development Environment:2:5:(Declarations):0:2
+          
+          '++LotusScript Development Environment:2:2:BindEvents:1:129
+          Private Sub BindEvents(Byval Objectname_ As String)
+          	Static Source As BUTTON
+          	Set Source = Bind(Objectname_)
+          	On Event Click From Source Call Click
+          End Sub
+          
+          '++LotusScript Development Environment:2:2:Click:1:12
+          Sub Click(Source As Button)
+          	Dim nMinutes As Integer
+          	Dim nSeconds As Integer
+          	
+          	Dim startdt As NotesDateTime
+          	Dim enddt As NotesDateTime
+          	Dim trdr As NotesDateRange
+          	
+          	InstantiateVariables
+          	
+          	Set mailnote = New NotesDocument(maildb)
+          	mailnote.Form = "Appointment"
+          	mailnote.AppointmentType = "3"
+          	mailnote.Chair = profile.Owner(0)
+          	mailnote.Principal = profile.Owner(0)
+          	mailnote.copyInto = ""
+          	
+          'add the date/time values     
+          	Set startdt = New NotesDateTime("")
+          	startdt.SetNow
+          	
+          	nMinutes = Minute(startdt.LSLocalTime)
+          	nSeconds = 0 - Second(startdt.LSLocalTime)
+          	
+          	If (nMinutes > 45) Then          
+          		startdt.AdjustMinute(60 - nMinutes)
+          	Elseif (nMinutes > 30) Then
+          		startdt.AdjustMinute(45 - nMinutes)
+          	Elseif (nMinutes > 15) Then
+          		startdt.AdjustMinute(30 - nMinutes)
+          	Else
+          		startdt.AdjustMinute(15 - nMinutes)
+          	End If               
+          	
+          	startdt.AdjustSecond(nSeconds)
+          	
+          	Set mailnote.StartDate = startdt
+          	Set mailnote.StartDateTime = startdt
+          	
+          	Set enddt = New NotesDateTime(startdt.LSLocalTime)
+          	enddt.AdjustMinute(profile.DefaultDuration(0))
+          	
+          	Set trdr = session.CreateDateRange
+          	Set trdr.StartDateTime = startdt
+          	Set trdr.EndDateTime = enddt
+          	Set mailnote.TimeRange = trdr
+          	
+          	Call ws.EditDocument(True,mailnote)
+          End Sub ¦
+        hidewhen: |
+          ecl := @If(@IsError(@IsUsingJavaElement);0;@IsUsingJavaElement; 1; 0);
+          ecl = 0
+        hidewhen_opaque: |
+          jgAKAAQAAQBOAAMAZWNsAPsAdAFaAa8AOgAQAAAAAAAAAAAAAACuACoA+wB0Aa8AIgAQAAAAAAAAAAAA
+          8D+uABIAAAAAAAAAAAAAAK4ABAC1BQMABwASAAsACTFTMlMxM1MxNVMAAAAaAAUAAwBlY2wAAAAAAAAA
+          AAAAAAoCAwAHAA4ABwAJMFIxUzJTAA==
+        title: "New\\New Meeting"
+      - type: 0xff5e
+        opaque: Xv8wAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAAABQAAAASAAEABwBNZWV0aW5nAAMA
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 2
+        wEventId: 213
+        wPlatform: 1
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 2
+        wEventId: 12091
+        wPlatform: 1
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 12
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 1
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 2
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 11
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 20
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 9
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 8
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 10
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 3
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 6
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 7
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 5
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 4
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x0001400b
+        IconIndex: 30
+        ShareId: 39
+        Type: 2
+        data: |
+          '++LotusScript Development Environment:2:5:(Options):0:74
+          Use "MailLibrary"
+          '++LotusScript Development Environment:2:5:(Forward):0:1
+          Declare Sub Click(Source As Button)
+          
+          '++LotusScript Development Environment:2:5:(Declarations):0:2
+          
+          '++LotusScript Development Environment:2:2:BindEvents:1:129
+          Private Sub BindEvents(Byval Objectname_ As String)
+          	Static Source As BUTTON
+          	Set Source = Bind(Objectname_)
+          	On Event Click From Source Call Click
+          End Sub
+          
+          '++LotusScript Development Environment:2:2:Click:1:12
+          Sub Click(Source As Button)
+          	Dim docType As String
+          	docType = Lcase("PerSoN") 
+          	Call createPNABDoc(docType)
+          End Sub
+        hidewhen: |
+          ecl := @If(@IsError(@IsUsingJavaElement);0;@IsUsingJavaElement; 1; 0);
+          @IsError(OkToShow) | ecl = 0 |
+          @If(@TextToNumber(@Version) < 174;@True;@False)
+        hidewhen_opaque: |
+          0gAKAAQAAQBOAAMAZWNsAPsAdAFaAa8AOgAQAAAAAAAAAAAAAACuACoA+wB0Aa8AIgAQAAAAAAAAAAAA
+          8D+uABIAAAAAAAAAAAAAAK4ABAC1BQMABwASAAsACTFTMlMxM1MxNVMAAABQAAUACABPa1RvU2hvd1oB
+          BQADAGVjbAAAAAAAAAAAAAAACgIdAr8AWAEAAAAAAAAAwGVADgKvABIACAArAK4ACgAqAK4ABAC1Ax0C
+          AwAHABwAFQAJMFI0UzVTNlM3UzhTOVIxNVMxNlMA
+        title: "New\\New Contact"
+      - type: 0xff5e
+        opaque: Xv8wAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAAABQAAAASAAEABwBDb250YWN0AAMA
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 2
+        wEventId: 213
+        wPlatform: 1
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 2
+        wEventId: 12091
+        wPlatform: 1
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 12
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 1
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 2
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 11
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 20
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 9
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 8
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 10
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 3
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 6
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 7
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 5
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 4
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x0001400b
+        IconIndex: 30
+        ShareId: 40
+        Type: 2
+        data: |
+          '++LotusScript Development Environment:2:5:(Options):0:74
+          Use "MailLibrary"
+          '++LotusScript Development Environment:2:5:(Forward):0:1
+          Declare Sub Click(Source As Button)
+          
+          '++LotusScript Development Environment:2:5:(Declarations):0:2
+          
+          '++LotusScript Development Environment:2:2:BindEvents:1:129
+          Private Sub BindEvents(Byval Objectname_ As String)
+          	Static Source As BUTTON
+          	Set Source = Bind(Objectname_)
+          	On Event Click From Source Call Click
+          End Sub
+          
+          '++LotusScript Development Environment:2:2:Click:1:12
+          Sub Click(Source As Button)
+          	Dim docType As String
+          	docType = Lcase("GrOuP") 
+          	Call createPNABDoc(docType)
+          End Sub c
+        hidewhen: |
+          ecl := @If(@IsError(@IsUsingJavaElement);0;@IsUsingJavaElement; 1; 0);
+          @IsError(OkToShow) | ecl = 0 |
+          @If(@TextToNumber(@Version) < 174;@True;@False)
+        hidewhen_opaque: |
+          0gAKAAQAAQBOAAMAZWNsAPsAdAFaAa8AOgAQAAAAAAAAAAAAAACuACoA+wB0Aa8AIgAQAAAAAAAAAAAA
+          8D+uABIAAAAAAAAAAAAAAK4ABAC1BQMABwASAAsACTFTMlMxM1MxNVMAAABQAAUACABPa1RvU2hvd1oB
+          BQADAGVjbAAAAAAAAAAAAAAACgIdAr8AWAEAAAAAAAAAwGVADgKvABIACAArAK4ACgAqAK4ABAC1Ax0C
+          AwAHABwAFQAJMFI0UzVTNlM3UzhTOVIxNVMxNlMA
+        title: "New\\New Group"
+      - type: 0xff5e
+        opaque: Xv8uAAAAAAAAAAAAEgAAAAAAAAAAAAAAAAAAABIAAAAQAAEABQBHcm91cAADAA==
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 2
+        wEventId: 213
+        wPlatform: 1
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 2
+        wEventId: 12091
+        wPlatform: 1
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 12
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 1
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 2
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 11
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 20
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 9
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 8
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 10
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 3
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 6
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 7
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 5
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 4
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x2001001b
+        IconIndex: 30
+        ShareId: 33
+        Type: 2
+        data: |
+          '++LotusScript Development Environment:2:5:(Options):0:74
+          Use "MailLibrary"
+          '++LotusScript Development Environment:2:5:(Forward):0:1
+          Declare Sub Click(Source As Button)
+          
+          '++LotusScript Development Environment:2:5:(Declarations):0:2
+          
+          '++LotusScript Development Environment:2:2:BindEvents:1:129
+          Private Sub BindEvents(Byval Objectname_ As String)
+          	Static Source As BUTTON
+          	Set Source = Bind(Objectname_)
+          	On Event Click From Source Call Click
+          End Sub
+          
+          '++LotusScript Development Environment:2:2:Click:1:12
+          Sub Click(Source As Button)
+          	Dim nMinutes As Integer
+          	Dim nSeconds As Integer
+          	
+          	Dim startdt As NotesDateTime
+          	Dim enddt As NotesDateTime
+          	Dim trdr As NotesDateRange
+          	
+          	InstantiateVariables
+          	
+          	Set mailnote = New NotesDocument(maildb)
+          	mailnote.Form = "Appointment"
+          	mailnote.AppointmentType = "0"
+          	mailnote.Chair = profile.Owner(0)
+          	mailnote.Principal = profile.Owner(0)
+          	mailnote.copyInto = ""
+          	
+          'add the date/time values     
+          	Set startdt = New NotesDateTime("")
+          	startdt.SetNow
+          	
+          	nMinutes = Minute(startdt.LSLocalTime)
+          	nSeconds = 0 - Second(startdt.LSLocalTime)
+          	
+          	If (nMinutes > 45) Then          
+          		startdt.AdjustMinute(60 - nMinutes)
+          	Elseif (nMinutes > 30) Then
+          		startdt.AdjustMinute(45 - nMinutes)
+          	Elseif (nMinutes > 15) Then
+          		startdt.AdjustMinute(30 - nMinutes)
+          	Else
+          		startdt.AdjustMinute(15 - nMinutes)
+          	End If               
+          	
+          	startdt.AdjustSecond(nSeconds)
+          	
+          	Set mailnote.StartDate = startdt
+          	Set mailnote.StartDateTime = startdt
+          	
+          '	Set enddt = New NotesDateTime(startdt.LSLocalTime)
+          '	enddt.AdjustMinute(profile.DefaultDuration(0))
+          	
+          	Set trdr = session.CreateDateRange
+          	Set trdr.StartDateTime = startdt
+          	Set trdr.EndDateTime = enddt
+          	Set mailnote.TimeRange = trdr
+          	
+          	Call ws.EditDocument(True,mailnote)	
+          End Sub
+        hidewhen: |
+          ecl := @If(@IsError(@IsUsingJavaElement);0;@IsUsingJavaElement; 1; 0);
+          ecl = 0
+        hidewhen_opaque: |
+          jgAKAAQAAQBOAAMAZWNsAPsAdAFaAa8AOgAQAAAAAAAAAAAAAACuACoA+wB0Aa8AIgAQAAAAAAAAAAAA
+          8D+uABIAAAAAAAAAAAAAAK4ABAC1BQMABwASAAsACTFTMlMxM1MxNVMAAAAaAAUAAwBlY2wAAAAAAAAA
+          AAAAAAoCAwAHAA4ABwAJMFIxUzJTAA==
+        title: "New\\New Appointment"
+      - type: 0xff5e
+        opaque: Xv80AAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAABgAAAAWAAEACwBBcHBvaW50bWVudAADAA==
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 2
+        wEventId: 213
+        wPlatform: 1
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 2
+        wEventId: 12091
+        wPlatform: 1
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 12
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 1
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 2
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 11
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 20
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 9
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 8
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 10
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 3
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 6
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 7
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 5
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 4
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x2001001b
+        IconIndex: 30
+        ShareId: 36
+        Type: 2
+        data: |
+          '++LotusScript Development Environment:2:5:(Options):0:74
+          Use "MailLibrary"
+          '++LotusScript Development Environment:2:5:(Forward):0:1
+          Declare Sub Click(Source As Button)
+          
+          '++LotusScript Development Environment:2:5:(Declarations):0:2
+          
+          '++LotusScript Development Environment:2:2:BindEvents:1:129
+          Private Sub BindEvents(Byval Objectname_ As String)
+          	Static Source As BUTTON
+          	Set Source = Bind(Objectname_)
+          	On Event Click From Source Call Click
+          End Sub
+          
+          '++LotusScript Development Environment:2:2:Click:1:12
+          Sub Click(Source As Button)
+          	Dim nMinutes As Integer
+          	Dim nSeconds As Integer
+          	
+          	Dim startdt As NotesDateTime
+          	Dim enddt As NotesDateTime
+          	Dim trdr As NotesDateRange
+          	
+          	InstantiateVariables
+          	
+          	Set mailnote = New NotesDocument(maildb)
+          	mailnote.Form = "Appointment"
+          	mailnote.AppointmentType = "4"
+          	mailnote.Chair = profile.Owner(0)
+          	mailnote.Principal = profile.Owner(0)
+          	mailnote.tmpnewdoc = "1"
+          	mailnote.copyinto = ""
+          	
+          'add the date/time values     
+          	Set startdt = New NotesDateTime("")
+          	startdt.SetNow
+          	
+          	nMinutes = Minute(startdt.LSLocalTime)
+          	nSeconds = 0 - Second(startdt.LSLocalTime)
+          	
+          	If (nMinutes > 45) Then          
+          		startdt.AdjustMinute(60 - nMinutes)
+          	Elseif (nMinutes > 30) Then
+          		startdt.AdjustMinute(45 - nMinutes)
+          	Elseif (nMinutes > 15) Then
+          		startdt.AdjustMinute(30 - nMinutes)
+          	Else
+          		startdt.AdjustMinute(15 - nMinutes)
+          	End If               
+          	
+          	startdt.AdjustSecond(nSeconds)
+          	
+          	Set mailnote.StartDate = startdt
+          	Set mailnote.StartDateTime = startdt
+          	
+          	Set trdr = session.CreateDateRange
+          	Set trdr.StartDateTime = startdt
+          	Set trdr.EndDateTime = enddt
+          	Set mailnote.TimeRange = trdr
+          	
+          	Call ws.EditDocument(True,mailnote)
+          End Sub K
+        hidewhen: |
+          ecl := @If(@IsError(@IsUsingJavaElement);0;@IsUsingJavaElement; 1; 0);
+          ecl = 0
+        hidewhen_opaque: |
+          jgAKAAQAAQBOAAMAZWNsAPsAdAFaAa8AOgAQAAAAAAAAAAAAAACuACoA+wB0Aa8AIgAQAAAAAAAAAAAA
+          8D+uABIAAAAAAAAAAAAAAK4ABAC1BQMABwASAAsACTFTMlMxM1MxNVMAAAAaAAUAAwBlY2wAAAAAAAAA
+          AAAAAAoCAwAHAA4ABwAJMFIxUzJTAA==
+        title: "New\\New Reminder"
+      - type: 0xff5e
+        opaque: Xv8wAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAAABQAAAASAAEACABSZW1pbmRlcgMA
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 2
+        wEventId: 213
+        wPlatform: 1
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 2
+        wEventId: 12091
+        wPlatform: 1
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 12
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 1
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 2
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 11
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 20
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 9
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 8
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 10
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 3
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 6
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 7
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 5
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 4
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x2001001b
+        IconIndex: 30
+        ShareId: 37
+        Type: 2
+        data: |
+          '++LotusScript Development Environment:2:5:(Options):0:74
+          Use "MailLibrary"
+          '++LotusScript Development Environment:2:5:(Forward):0:1
+          Declare Sub Click(Source As Button)	
+          
+          '++LotusScript Development Environment:2:5:(Declarations):0:2
+          
+          '++LotusScript Development Environment:2:2:BindEvents:1:129
+          Private Sub BindEvents(Byval Objectname_ As String)
+          	Static Source As BUTTON
+          	Set Source = Bind(Objectname_)
+          	On Event Click From Source Call Click
+          End Sub
+          
+          '++LotusScript Development Environment:2:2:Click:1:12
+          Sub Click(Source As Button)	
+          	
+          	InstantiateVariables	
+          	
+          	Set mailnote = New NotesDocument(maildb)
+          	mailnote.Form = "Task"
+          	mailnote.TaskType = "1"
+          	mailnote.tmpnewdoc = "1"
+          	
+          	Call ws.EditDocument(True,mailnote)
+          End Sub K
+        hidewhen: |
+          ecl := @If(@IsError(@IsUsingJavaElement);0;@IsUsingJavaElement; 1; 0);
+          ecl = 0
+        hidewhen_opaque: |
+          jgAKAAQAAQBOAAMAZWNsAPsAdAFaAa8AOgAQAAAAAAAAAAAAAACuACoA+wB0Aa8AIgAQAAAAAAAAAAAA
+          8D+uABIAAAAAAAAAAAAAAK4ABAC1BQMABwASAAsACTFTMlMxM1MxNVMAAAAaAAUAAwBlY2wAAAAAAAAA
+          AAAAAAoCAwAHAA4ABwAJMFIxUzJTAA==
+        title: "New\\New To Do"
+      - type: 0xff5e
+        opaque: Xv8uAAAAAAAAAAAAEgAAAAAAAAAAAAAAAAAAABIAAAAQAAEABQBUbyBEbwADAA==
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 2
+        wEventId: 213
+        wPlatform: 1
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 2
+        wEventId: 12091
+        wPlatform: 1
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 12
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 1
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 2
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 11
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 20
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 9
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 8
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 10
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 3
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 6
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 7
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 5
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 4
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x0000011e
+        IconIndex: 30
+        ShareId: 0
+        Type: 1
+        data: |
+          @SetProfileField("tempvars"; "viewtitle"; "($All)");
+          @Command([Compose]; "JournalEntry")
+        data_opaque: |
+          aAAIACwAAQAIAHRlbXB2YXJzAQAJAHZpZXd0aXRsZQABAAYAKCRBbGwp+AMDAAcADAAFAAk0UzZTAAAA
+          IgACAOgDAAAAAAAAAQAMAEpvdXJuYWxFbnRyee0CAwAHAAwABQAJMFI0UwA=
+        hidewhen: |
+          ecl := @If(@IsError(@IsUsingJavaElement);0;@IsUsingJavaElement; 1; 0);
+          ecl = 1
+        hidewhen_opaque: |
+          jgAKAAQAAQBOAAMAZWNsAPsAdAFaAa8AOgAQAAAAAAAAAAAAAACuACoA+wB0Aa8AIgAQAAAAAAAAAAAA
+          8D+uABIAAAAAAAAAAAAAAK4ABAC1BQMABwASAAsACTFTMlMxM1MxNVMAAAAaAAUAAwBlY2wAAAAAAAAA
+          AADwPwoCAwAHAA4ABwAJMFIxUzJTAA==
+        title: New Notebook Entry
+      - type: 0xffbe
+        Flags: 0x0411408b
+        IconIndex: 5
+        ShareId: 43
+        Type: 1
+        data: "@Command([EditDocument])"
+        data_opaque: IAAAABIAAgDoBwAAAAAAAO0BAwAHAAwABQAJMFMwRQA=
+        title: Edit
+      - type: 0xfff6
+        opaque: |
+          9v/uAAEAAAADABMAzAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwACgAEAAAAlAC/AFgBAAAAAAAAAAB3QA4C
+          rwB8AB4AAQAUAGFjdF9lZGl0ZG9jdW1lbnQuZ2lmrgBeAAEAFgAkQWN0aW9uQmFyV2l0aG91dEljb25z
+          +wFnAb8AWAEAAAAAAAAAAHdADQIcAq8AKgAKAAEAAACuACAAAQAUAGFjdF9lZGl0ZG9jdW1lbnQucG5n
+          rgAEALUFAwAHADIALAAJMlM2UzdTOVMxMVIxNVMyRTE2UzIwUzIxUzIyUzJFMjNTMkUyNFMyRTI1Ug==
+      - type: 0xff5e
+        opaque: |
+          Xv9iAAAAAAAAAAAARgAAAAAAAAAAAAAAAAAAAEYABwAgABoAYWRkZWQgc3BhY2UgaXMgaW50ZW50aW9u
+          YWwHAAoAAwAJMVMAAAAQAAEABgBFZGl0ICADAAcACgADAAkwUgA=
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 12
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 1
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 2
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 11
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 20
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 9
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 8
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 10
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 3
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 6
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 7
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 5
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 4
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x2011400b
+        IconIndex: 7
+        ShareId: 47
+        Type: 1
+        data: "@Command([ComposeWithReference];  @MailDbName ; \"Memo\"; 1 + 2 + 32 + 64)"
+        data_opaque: |
+          bgAAAEoAAgAkHAAAAAAAAKwAAQAEAE1lbW8AAAAAAAAAAPA/AAAAAAAAAAAAQCICAAAAAAAAAABAQCIC
+          AAAAAAAAAABQQCIC7QQDAAcAIgAcAAk0UzJFNVM2UzhTOVMxMFMxMVMxMlMxM1MxNFM=
+        hidewhen: ISMAILSTATIONERY = 1 | @IsNewDoc | @IsAvailable(tmpNewDoc) | @If(@TextToNumber(@Version) < 174;@True;@False)
+        hidewhen_opaque: |
+          hAAAAGIABQAQAElTTUFJTFNUQVRJT05FUlkAAAAAAAAAAPA/CgKJAB0CBQAJAHRtcE5ld0RvYwBoAR0C
+          vwBYAQAAAAAAAADAZUAOAq8AEgAIACsArgAKACoArgAEALUDHQIDAAcAIAAZAAkxUzJTM1M0UzVTNlMx
+          MFMxMVMxN1MxOFMA
+        title: "F_orward\\F_orward with Attachments"
+      - type: 0xfff6
+        opaque: |
+          9v/yAAEAAAADABMA0AAAAAAAAAAAAAAAAAAAAAAAAAAAANAACgAEAAAAmAC/AFgBAAAAAAAAAAB3QA4C
+          rwCAACAAAQAVAGFjdF9mb3J3YXJkYXNtYWlsLmdpZgCuAGAAAQAWACRBY3Rpb25CYXJXaXRob3V0SWNv
+          bnP7AWcBvwBYAQAAAAAAAAAAd0ANAhwCrwAsAAoAAQAAAK4AIgABABUAYWN0X2ZvcndhcmRhc21haWwu
+          cG5nAK4ABAC1BQMABwAyACwACTJTNlM3UzlTMTFSMTVTMkUxNlMyMFMyMVMyMlMyRTIzUzJFMjRTMkUy
+          NVI=
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 12
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 1
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 2
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 11
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 20
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 9
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 8
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 10
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 3
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 6
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 7
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 5
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 4
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x0011400b
+        IconIndex: 7
+        ShareId: 45
+        Type: 1
+        data: "@Command([ComposeWithReference];  @MailDbName ; \"Memo\"; 1 + 2 + 16 + 32 + 64)"
+        data_opaque: |
+          gAAAAFYAAgAkHAAAAAAAAKwAAQAEAE1lbW8AAAAAAAAAAPA/AAAAAAAAAAAAQCICAAAAAAAAAAAwQCIC
+          AAAAAAAAAABAQCICAAAAAAAAAABQQCIC7QQDAAcAKAAiAAk0UzJFNVM2UzhTOVMxMFMxMVMxMlMxM1Mx
+          NFMxNVMxNlM=
+        hidewhen: |
+          REM {R6 Forward w/o Attachments};
+          ISMAILSTATIONERY = 1 | @IsNewDoc | @IsAvailable(tmpNewDoc) | @If(@TextToNumber(@Version) < 174;@True;@False)
+        hidewhen_opaque: |
+          sAAHACAAGgBSNiBGb3J3YXJkIHcvbyBBdHRhY2htZW50cwcACgADAAkxUwAAAGIABQAQAElTTUFJTFNU
+          QVRJT05FUlkAAAAAAAAAAPA/CgKJAB0CBQAJAHRtcE5ld0RvYwBoAR0CvwBYAQAAAAAAAADAZUAOAq8A
+          EgAIACsArgAKACoArgAEALUDHQIDAAcAIgAbAAkwUjFTMlMzUzRTNVM2UzEwUzExUzE3UzE4UwA=
+        title: "F_orward\\Forward"
+      - type: 0xfff6
+        opaque: |
+          9v/yAAEAAAADABMA0AAAAAAAAAAAAAAAAAAAAAAAAAAAANAACgAEAAAAmAC/AFgBAAAAAAAAAAB3QA4C
+          rwCAACAAAQAVAGFjdF9mb3J3YXJkYXNtYWlsLmdpZgCuAGAAAQAWACRBY3Rpb25CYXJXaXRob3V0SWNv
+          bnP7AWcBvwBYAQAAAAAAAAAAd0ANAhwCrwAsAAoAAQAAAK4AIgABABUAYWN0X2ZvcndhcmRhc21haWwu
+          cG5nAK4ABAC1BQMABwAyACwACTJTNlM3UzlTMTFSMTVTMkUxNlMyMFMyMVMyMlMyRTIzUzJFMjRTMkUy
+          NVI=
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 12
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 1
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 2
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 11
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 20
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 9
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 8
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 10
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 3
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 6
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 7
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 5
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 4
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x0000000b
+        IconIndex: 0
+        ShareId: 0
+        Type: 1
+        hidewhen: |
+          REM {R6 Internet-Style Forward};
+          ISMAILSTATIONERY = 1 | @IsNewDoc | @IsAvailable(tmpNewDoc) | @If(@TextToNumber(@Version) < 174;@True;@False)
+        hidewhen_opaque: |
+          sAAHACAAGQBSNiBJbnRlcm5ldC1TdHlsZSBGb3J3YXJkAAcACgADAAkxUwAAAGIABQAQAElTTUFJTFNU
+          QVRJT05FUlkAAAAAAAAAAPA/CgKJAB0CBQAJAHRtcE5ld0RvYwBoAR0CvwBYAQAAAAAAAADAZUAOAq8A
+          EgAIACsArgAKACoArgAEALUDHQIDAAcAIgAbAAkwUjFTMlMzUzRTNVM2UzEwUzExUzE3UzE4UwA=
+        title: "F_orward\\"
+      - type: 0xff5e
+        opaque: Xv8cAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA==
+      - type: 0xffbe
+        Flags: 0x0091400b
+        IconIndex: 7
+        ShareId: 48
+        Type: 1
+        data: "@Command([ComposeWithReference];  @MailDbName ; \"Memo\"; 1 + 2 + 8 + 32 + 64)"
+        data_opaque: |
+          gAAAAFYAAgAkHAAAAAAAAKwAAQAEAE1lbW8AAAAAAAAAAPA/AAAAAAAAAAAAQCICAAAAAAAAAAAgQCIC
+          AAAAAAAAAABAQCICAAAAAAAAAABQQCIC7QQDAAcAKAAiAAk0UzJFNVM2UzhTOVMxMFMxMVMxMlMxM1Mx
+          NFMxNVMxNlM=
+        hidewhen: |
+          REM {R6 Internet-Style Forward};
+          ISMAILSTATIONERY = 1 | @IsNewDoc | @IsAvailable(tmpNewDoc) | @If(@TextToNumber(@Version) < 174;@True;@False)
+        hidewhen_opaque: |
+          sAAHACAAGQBSNiBJbnRlcm5ldC1TdHlsZSBGb3J3YXJkAAcACgADAAkxUwAAAGIABQAQAElTTUFJTFNU
+          QVRJT05FUlkAAAAAAAAAAPA/CgKJAB0CBQAJAHRtcE5ld0RvYwBoAR0CvwBYAQAAAAAAAADAZUAOAq8A
+          EgAIACsArgAKACoArgAEALUDHQIDAAcAIgAbAAkwUjFTMlMzUzRTNVM2UzEwUzExUzE3UzE4UwA=
+        title: "F_orward\\Internet-Style Forward"
+      - type: 0xfff6
+        opaque: |
+          9v/yAAEAAAADABMA0AAAAAAAAAAAAAAAAAAAAAAAAAAAANAACgAEAAAAmAC/AFgBAAAAAAAAAAB3QA4C
+          rwCAACAAAQAVAGFjdF9mb3J3YXJkYXNtYWlsLmdpZgCuAGAAAQAWACRBY3Rpb25CYXJXaXRob3V0SWNv
+          bnP7AWcBvwBYAQAAAAAAAAAAd0ANAhwCrwAsAAoAAQAAAK4AIgABABUAYWN0X2ZvcndhcmRhc21haWwu
+          cG5nAK4ABAC1BQMABwAyACwACTJTNlM3UzlTMTFSMTVTMkUxNlMyMFMyMVMyMlMyRTIzUzJFMjRTMkUy
+          NVI=
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 12
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 1
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 2
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 11
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 20
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 9
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 8
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 10
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 3
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 6
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 7
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 5
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 4
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x0001400b
+        IconIndex: 0
+        ShareId: 44
+        Type: 1
+        data: "@Command([MailForward])"
+        data_opaque: IAAAABIAAgDICwAAAAAAAO0BAwAHAAwABQAJMFMwRQA=
+        hidewhen: "@If(@TextToNumber(@Version) > 166;@True;@False) | ISMAILSTATIONERY = 1 | @IsAvailable(tmpNewDoc)"
+        hidewhen_opaque: |
+          fgAAAF4AvwBYAQAAAAAAAADAZEAPAq8AEgAIACsArgAKACoArgAEALUDBQAQAElTTUFJTFNUQVRJT05F
+          UlkAAAAAAAAAAPA/CgIdAgUACQB0bXBOZXdEb2MAaAEdAgMABwAeABcACTZTN1MxM1MxNFMxNVMxNlMx
+          N1MxOFMA
+        title: F_orward
+      - type: 0xffbe
+        Flags: 0x0490419f
+        IconIndex: 120
+        ShareId: 0
+        Type: 1
+        data: |
+          @If(!@IsAvailable(form); @Return(@Prompt([Ok]; "Alert"; "You must first select a document.  Note:  highlight bar cannot be on a category.")); "");
+          @Command([Folder])
+        data_opaque: |
+          wgAIAJIABQAEAGZvcm1oAR4BrwB+AHIAAgANAAAAAAAAAAEABQBBbGVydAABAFAAWW91IG11c3QgZmly
+          c3Qgc2VsZWN0IGEgZG9jdW1lbnQuICBOb3RlOiAgaGlnaGxpZ2h0IGJhciBjYW5ub3QgYmUgb24gYSBj
+          YXRlZ29yeS6wA8IBrgAMAAEAAACuAAQAtQMDAAcAEgAMAAk4UzE0UzE2UzIwUwAAEgACAPYXAAAAAAAA
+          7QEDAAcACgADAAkwUgA=
+        title: "Folder\\Move to Folder..."
+      - type: 0xfff6
+        opaque: |
+          9v+SAAEAAAADABMAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAACgAEAAAAWgABABYAJEFjdGlvbkJhcldp
+          dGhvdXRJY29uc/sBZwGvADQAGAABAA4AZm9sZGVyZ3JleS5wbmeuABwAAQAQAGZvbGRlcl8xOHgxOC5n
+          aWauAAQAtQMDAAcAEAAJAAkyUzZTN1M4UwA=
+      - type: 0xffbe
+        Flags: 0x0001401f
+        IconIndex: 0
+        ShareId: 42
+        Type: 1
+        data: |
+          xTitle := "Discover Folders";
+          xMsg := "You must first select one or more Notebook Entries.";
+          @If(form = "" & @DocLength = 0 ; @Return( @Prompt([Ok]; xTitle; xMsg)   ); "");
+          
+          subj := Subject;
+          @Command([DiscoverFolders]; subj)
+        data_opaque: |
+          UgEBACIABgB4VGl0bGUBABAARGlzY292ZXIgRm9sZGVycwMABwAMAAUACTFTMlMAAQBEAAQAeE1zZwEA
+          MwBZb3UgbXVzdCBmaXJzdCBzZWxlY3Qgb25lIG9yIG1vcmUgTm90ZWJvb2sgRW50cmllcy4AAwAHAA4A
+          BwAJMFIxUzJTAAgAWAAFAAQAZm9ybQEAAAAKAp8AAAAAAAAAAAAAAAoCHAKvADIAJgACAA0AAAAAAAAA
+          BQAGAHhUaXRsZQUABAB4TXNnsAPCAa4ADAABAAAArgAEALUDAwAHACwAJQAJMFIzUzRTNVM2UzdTOFM5
+          UzEwUzEyUzE2UzE4UzIwUzNFMjJTAAEAGAAEAHN1YmoFAAcAU3ViamVjdAADAAcADgAIAAkwUlIxUzJT
+          AAAaAAIAgBgAAAAAAAAFAAQAc3Viau0CAwAHAAwABQAJMFI0UwA=
+        hidewhen: "@Version < @Text(250)"
+        hidewhen_opaque: JAAAABYAvwAAAAAAAAAAQG9AVgEOAgMABwAMAAUACTFTMlMA
+        title: "Folder\\Discover Folders..."
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 12
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 1
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 2
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 11
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 20
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 9
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 8
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 10
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 3
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 6
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 7
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 5
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 4
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x0080419f
+        IconIndex: 0
+        ShareId: 0
+        Type: 1
+        title: "Folder\\"
+      - type: 0xff5e
+        opaque: Xv8cAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA==
+      - type: 0xffbe
+        Flags: 0x0001408b
+        IconIndex: 0
+        ShareId: 16
+        Type: 1
+        data: "@Command([CreateFolder])"
+        data_opaque: IAAAABIAAgDVFwAAAAAAAO0BAwAHAAwABQAJMFMwRQA=
+        title: "Folder\\Create Folder..."
+      - type: 0xffbe
+        Flags: 0x0001219e
+        IconIndex: 0
+        ShareId: 14
+        Type: 7
+        opaque: ""
+        title: "Folder\\Create Folder..."
+      - type: 0xfff9
+        ActionLength: 203
+        ActionType: 4
+        EventType: 1
+        Flags: 0x00000000
+        Reserved: AAAAAAAAAAAAAAAAAAA=
+        SignatureLength: 0
+      - type: 0xffdc
+        opaque: |
+          3P/eAPn/zAAgTgAAAAAAAAAAdmFyIHBhdGhuYW1lID0gKHdpbmRvdy5sb2NhdGlvbi5wYXRobmFtZSk7
+          DXdpbmRvdy5vcGVuKHBhdGhuYW1lLnN1YnN0cmluZygwLChwYXRobmFtZS5sYXN0SW5kZXhPZignLm5z
+          ZicpKzUpKSsnRm9sZGVyQ3JlYXRlP09wZW5Gb3JtJywnRm9sZGVyJywnc2Nyb2xsYmFycyxzY3JlZW5Y
+          PTE1MCxzY3JlZW5ZPTIwMCx3aWR0aD01MDAsaGVpZ2h0PTI4MCcpOwAA
+      - type: 0xff66
+        ActionLength: 203
+        ActionType: 4
+        EventType: 1
+        Flags: 0x00000000
+        Reserved: AAAAAAAAAAAAAAAAAAA=
+        SignatureLength: 0
+      - type: 0xff65
+        opaque: |
+          Zf/eAGb/zAAgTgAAAAAAAAAAdmFyIHBhdGhuYW1lID0gKHdpbmRvdy5sb2NhdGlvbi5wYXRobmFtZSk7
+          DXdpbmRvdy5vcGVuKHBhdGhuYW1lLnN1YnN0cmluZygwLChwYXRobmFtZS5sYXN0SW5kZXhPZignLm5z
+          ZicpKzUpKSsnRm9sZGVyQ3JlYXRlP09wZW5Gb3JtJywnRm9sZGVyJywnc2Nyb2xsYmFycyxzY3JlZW5Y
+          PTE1MCxzY3JlZW5ZPTIwMCx3aWR0aD01MDAsaGVpZ2h0PTI4MCcpOwAA
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 213
+        wPlatform: 1
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x0001219e
+        IconIndex: 0
+        ShareId: 12
+        Type: 1
+        data: "@Command([Folder];\"\";\"1\")"
+        data_opaque: KgAAABwAAgD2FwAAAAAAAAEAAAABAAEAMQDtAwMABwAMAAUACTBTMEUA
+        title: "Folder\\Move to Folder..."
+      - type: 0xffbe
+        Flags: 0x0001219e
+        IconIndex: 0
+        ShareId: 13
+        Type: 1
+        data: "@Command([RemoveFromFolder])"
+        data_opaque: IAAAABIAAgD1FwAAAAAAAO0BAwAHAAwABQAJMFMwRQA=
+        title: "Folder\\Remove from Folder"
+      - type: 0xffbe
+        Flags: 0x0001219f
+        IconIndex: 0
+        ShareId: 15
+        Type: 7
+        opaque: ""
+        title: "Folder\\Remove Folder"
+      - type: 0xfff9
+        ActionLength: 203
+        ActionType: 4
+        EventType: 1
+        Flags: 0x00000000
+        Reserved: AAAAAAAAAAAAAAAAAAA=
+        SignatureLength: 0
+      - type: 0xffdc
+        opaque: |
+          3P/eAPn/zAAgTgAAAAAAAAAAdmFyIHBhdGhuYW1lID0gKHdpbmRvdy5sb2NhdGlvbi5wYXRobmFtZSk7
+          DXdpbmRvdy5vcGVuKHBhdGhuYW1lLnN1YnN0cmluZygwLChwYXRobmFtZS5sYXN0SW5kZXhPZignLm5z
+          ZicpKzUpKSsnRm9sZGVyUmVtb3ZlP09wZW5Gb3JtJywnRm9sZGVyJywnc2Nyb2xsYmFycyxzY3JlZW5Y
+          PTE1MCxzY3JlZW5ZPTIwMCx3aWR0aD01MDAsaGVpZ2h0PTI1MCcpOwAA
+      - type: 0xff66
+        ActionLength: 203
+        ActionType: 4
+        EventType: 1
+        Flags: 0x00000000
+        Reserved: AAAAAAAAAAAAAAAAAAA=
+        SignatureLength: 0
+      - type: 0xff65
+        opaque: |
+          Zf/eAGb/zAAgTgAAAAAAAAAAdmFyIHBhdGhuYW1lID0gKHdpbmRvdy5sb2NhdGlvbi5wYXRobmFtZSk7
+          DXdpbmRvdy5vcGVuKHBhdGhuYW1lLnN1YnN0cmluZygwLChwYXRobmFtZS5sYXN0SW5kZXhPZignLm5z
+          ZicpKzUpKSsnRm9sZGVyUmVtb3ZlP09wZW5Gb3JtJywnRm9sZGVyJywnc2Nyb2xsYmFycyxzY3JlZW5Y
+          PTE1MCxzY3JlZW5ZPTIwMCx3aWR0aD01MDAsaGVpZ2h0PTI1MCcpOwAA
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 213
+        wPlatform: 1
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x0411409b
+        IconIndex: 0
+        ShareId: 52
+        Type: 1
+        data: |
+          @If(form = "" & @DocLength = 0; @Return("");
+          @Command([ToolsCategorize]))
+        data_opaque: |
+          YgAAAEYABQAEAGZvcm0BAAAACgKfAAAAAAAAAAAAAAAKAhwCrwAgAAwAAQAAAMIBrgAUAAIAqQ8AAAAA
+          AADtAa4ABAC1AwMABwAaABMACTNTNFM1UzZTN1M4UzEwUzE1UgA=
+        title: Categorize...
+      - type: 0xfff6
+        opaque: 9v8wAAAAAAADABMADgAAAAAAAAAAAAAAAAAAAAAAAAAAAGNhdGVnb3JpemUuZ2lm
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 12
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 1
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 2
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 11
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 20
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 9
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 8
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 10
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 3
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 6
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 7
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 5
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 4
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x0091408b
+        IconIndex: 11
+        ShareId: 41
+        Type: 1
+        data: "@Command([EditClear])"
+        data_opaque: IAAAABIAAgDaBwAAAAAAAO0BAwAHAAwABQAJMFMwRQA=
+        title: Delete
+      - type: 0xfff6
+        opaque: |
+          9v8aAQEAAAADABMA+AAAAAAAAAAAAAAAAAAAAAAAAAAAAPgACgAEAAAAzgD7AEsBHgGvAMAAYgABABYA
+          JEFjdGlvbkJhcldpdGhvdXRJY29uc/sBZwEeAa8AOgAaAAEAEABub1NvZnREZWxldGUuZ2lmrgAgAAEA
+          FABub3NvZnRkZWxldGVncmV5LnBuZ64ABAC1A64AXgABABYAJEFjdGlvbkJhcldpdGhvdXRJY29uc/sB
+          ZwEeAa8ANAAeAAEAEwBhY3RfdHJhc2hkZWxldGUuZ2lmAK4AFgABAAkAdHJhc2gucG5nAK4ABAC1A64A
+          BAC1AwMABwAkAB0ACTVSN1MxM1MyRTE1UzE4UjIwUzI2UzJFMjhTMkUA
+      - type: 0xff5e
+        opaque: |
+          Xv+sAAAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAAJAACgAEAAEAIAAGAHhUcmFzaAEADgBNb3ZlIF90byBU
+          cmFzaAMABwAMAAUACTFTMlMAAQAWAAQAeERlbAEABgBEZWxldGUDAAcADgAHAAkwUjFTMlMAAAAsAPsA
+          SwGvACAAEAAFAAYAeFRyYXNorgAQAAUABAB4RGVsrgAEALUDAwAHAA4ABwAJMFI0UzZTAA==
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 12
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 1
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 2
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 11
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 20
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 9
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 8
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 10
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 3
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 6
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 7
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 5
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 4
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x0001219e
+        IconIndex: 0
+        ShareId: 23
+        Type: 1
+        data: "@Command([MoveToTrash])"
+        data_opaque: IAAAABIAAgBMHQAAAAAAAO0BAwAHAAwABQAJMFMwRQA=
+        title: Move to Trash
+      - type: 0xffbe
+        Flags: 0x0001219e
+        IconIndex: 0
+        ShareId: 24
+        Type: 1
+        data: "@Command([EmptyTrash])"
+        data_opaque: IAAAABIAAgD9BwAAAAAAAO0BAwAHAAwABQAJMFMwRQA=
+        title: EmptyTrash
+      - type: 0xffbe
+        Flags: 0x0001219e
+        IconIndex: 0
+        ShareId: 19
+        Type: 1
+        data: |
+          REM {Web only; in views};
+          @Command([ViewShowSearchBar])
+        data_opaque: |
+          QAAHABgAEgBXZWIgb25seTsgaW4gdmlld3MHAAoAAwAJMVMAAAASAAIAkBcAAAAAAADtAQMABwAKAAMA
+          CTBSAA==
+        title: Search
+      - type: 0xffbe
+        Flags: 0x0091411f
+        IconIndex: 1
+        ShareId: 51
+        Type: 1
+        data: "@PostedCommand([RefreshFrame]; \"NotesView\")"
+        data_opaque: LAAAACAAAgBjGAAAAAAAAAEACQBOb3Rlc1ZpZXcAsQIDAAcACgADAAk0UwA=
+        hidewhen: "@Subset(@DbName;1) = \"\""
+        hidewhen_opaque: KAAAABoAiwAAAAAAAAAAAPA/awIBAAAACgIDAAcADAAFAAk2UzdTAA==
+        title: Refresh
+      - type: 0xfff6
+        opaque: 9v81AAAAAAADABMAEwAAAAAAAAAAAAAAAAAAAAAAAAAAAGFjdF9WaWV3UmVmcmVzaC5naWY=
+      - type: 0xff5e
+        opaque: Xv8wAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAAABQAAAASAAEABwBSZWZyZXNoAAMA
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 0
+        wEventId: 12091
+        wPlatform: 1
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 12
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 1
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 2
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 11
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 20
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 9
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 8
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 10
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 3
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 6
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 7
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 5
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 4
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x1010419c
+        IconIndex: 5
+        ShareId: 0
+        Type: 5
+        opaque: IgACCg==
+        title: rt click - Edit
+      - type: 0xfff6
+        opaque: |
+          9v+kAAEAAAADABMAggAAAAAAAAAAAAAAAAAAAAAAAAAAAIIACgAEAAAAagABABYAJEFjdGlvbkJhcldp
+          dGhvdXRJY29uc/sBZwGvAEQAJAABABkAYWN0X2VkaXRkb2N1bWVudF9ncmV5LnBuZwCuACAAAQAUAGFj
+          dF9lZGl0ZG9jdW1lbnQucG5nrgAEALUDAwAHABIACwAJMlM2UzdTOFM5UwA=
+      - type: 0xff5e
+        opaque: |
+          Xv9YAAAAAAAAAAAAPAAAAAAAAAAAAAAAAAAAADwAAAAqAAEABQBfRWRpdAAAAAAAAAAAACJAhwEiAgEA
+          BgBDdHJsK0UiAgMABwAQAAkACTFTMlM2UzdTAA==
+      - type: 0xffbe
+        Flags: 0x14014080
+        IconIndex: 0
+        ShareId: 56
+        Type: 1
+        title: rt click - Menu Separator
+      - type: 0xff5e
+        opaque: Xv8cAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA==
+      - type: 0xffbe
+        Flags: 0x14114080
+        IconIndex: 120
+        ShareId: 57
+        Type: 1
+        data: "@Command([Folder])"
+        data_opaque: IAAAABIAAgD2FwAAAAAAAO0BAwAHAAwABQAJMFMwRQA=
+        title: rt click - Move to Folder...
+      - type: 0xfff6
+        opaque: |
+          9v+UAAEAAAADABMAcgAAAAAAAAAAAAAAAAAAAAAAAAAAAHIACgAEAAAAWgABABYAJEFjdGlvbkJhcldp
+          dGhvdXRJY29uc/sBZwGvADQAGAABAA4AZm9sZGVyZ3JleS5wbmeuABwAAQAQAGZvbGRlcl8xOHgxOC5n
+          aWauAAQAtQMDAAcAEgALAAkyUzZTN1M4UzlTAA==
+      - type: 0xff5e
+        opaque: Xv86AAAAAAAAAAAAHgAAAAAAAAAAAAAAAAAAAB4AAAAcAAEAEgBNb192ZSB0byBGb2xkZXIuLi4DAA==
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 12
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 1
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 2
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 11
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 20
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 9
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 8
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 10
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 3
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 6
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 7
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 5
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 4
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x1011019c
+        IconIndex: 0
+        ShareId: 58
+        Type: 1
+        data: |
+          @If(form = "" & @DocLength = 0; @Return("");
+          @Command([ToolsCategorize]))
+        data_opaque: |
+          YgAAAEYABQAEAGZvcm0BAAAACgKfAAAAAAAAAAAAAAAKAhwCrwAgAAwAAQAAAMIBrgAUAAIAqQ8AAAAA
+          AADtAa4ABAC1AwMABwAaABMACTNTNFM1UzZTN1M4UzEwUzE1UgA=
+        title: rt click - Categorize
+      - type: 0xfff6
+        opaque: |
+          9v+WAAEAAAADABMAdAAAAAAAAAAAAAAAAAAAAAAAAAAAAHQACgAEAAAAXgABABYAJEFjdGlvbkJhcldp
+          dGhvdXRJY29uc/sBZwGvADgAHgABABMAY2F0ZWdvcml6ZV9ncmV5LnBuZwCuABoAAQAOAGNhdGVnb3Jp
+          emUuZ2lmrgAEALUDAwAHABAACQAJMlM2UzdTOVMA
+      - type: 0xff5e
+        opaque: Xv82AAAAAAAAAAAAGgAAAAAAAAAAAAAAAAAAABoAAAAYAAEADQBDYXRlZ29yaXplLi4uAAMA
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 12
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 1
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 2
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 11
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 20
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 9
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 8
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 10
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 3
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 6
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 7
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 5
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 4
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x5010419c
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: JwBefA==
+        title: "rt click - Mark as\\rt click - Read"
+      - type: 0xfff6
+        opaque: |
+          9v+MAAEAAAADABMAagAAAAAAAAAAAAAAAAAAAAAAAAAAAGoACgAEAAAAUgABABYAJEFjdGlvbkJhcldp
+          dGhvdXRJY29uc/sBZwGvACwAGAABAA0AcmVhZF9ncmV5LnBuZwCuABQAAQAIAHJlYWQuZ2lmrgAEALUD
+          AwAHABIACwAJMlM2UzdTOFM5UwA=
+      - type: 0xff5e
+        opaque: |
+          Xv9qAAAAAAAAAAAAOgAUAAAAAAAAAAAAAAAAADoAAAAoAAEABABSZWFkAAAAAAAAAAAiQIcBIgIBAAYA
+          SW5zZXJ0IgIDAAcAEAAJAAkxUzJTNlM3UwAUAAAAEgABAAcATWFyayBhcwADAA==
+      - type: 0xffbe
+        Flags: 0x5010419c
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: KABufA==
+        title: "rt click - Mark as\\rt click - Unread"
+      - type: 0xfff6
+        opaque: |
+          9v+QAAEAAAADABMAbgAAAAAAAAAAAAAAAAAAAAAAAAAAAG4ACgAEAAAAVgABABYAJEFjdGlvbkJhcldp
+          dGhvdXRJY29uc/sBZwGvADAAGgABAA8AdW5yZWFkX2dyZXkucG5nAK4AFgABAAoAdW5yZWFkLmdpZq4A
+          BAC1AwMABwASAAsACTJTNlM3UzhTOVMA
+      - type: 0xff5e
+        opaque: |
+          Xv9YAAAAAAAAAAAAPAAAAAAAAAAAAAAAAAAAADwAAAAqAAEABgBVbnJlYWQAAAAAAAAAACJAhwEiAgEA
+          BgBJbnNlcnQiAgMABwAQAAkACTFTMlM2UzdTAA==
+      - type: 0xffbe
+        Flags: 0x14014080
+        IconIndex: 0
+        ShareId: 56
+        Type: 1
+        title: rt click - Menu Separator
+      - type: 0xff5e
+        opaque: Xv8cAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA==
+      - type: 0xffbe
+        Flags: 0x5010419c
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: KgDOfA==
+        title: rt click - Copy
+      - type: 0xfff6
+        opaque: |
+          9v+cAAEAAAADABMAegAAAAAAAAAAAAAAAAAAAAAAAAAAAHoACgAEAAAAYgABABYAJEFjdGlvbkJhcldp
+          dGhvdXRJY29uc/sBZwGvADwAIAABABUAdGJfMTZfY29weV9uX2dyZXkucG5nAK4AHAABABAAdGJfMTZf
+          Y29weV9uLmdpZq4ABAC1AwMABwASAAsACTJTNlM3UzhTOVMA
+      - type: 0xff5e
+        opaque: |
+          Xv9UAAAAAAAAAAAAOAAAAAAAAAAAAAAAAAAAADgAAAAoAAEABABDb3B5AAAAAAAAAAAiQIcBIgIBAAYA
+          Q3RybCtDIgIDAAcADgAHAAkyUzZTN1MA
+      - type: 0xffbe
+        Flags: 0x5010419c
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: KwD+fA==
+        title: rt click - Paste
+      - type: 0xfff6
+        opaque: |
+          9v+eAAEAAAADABMAfAAAAAAAAAAAAAAAAAAAAAAAAAAAAHwACgAEAAAAZAABABYAJEFjdGlvbkJhcldp
+          dGhvdXRJY29uc/sBZwGvAD4AIAABABYAdGJfMTZfcGFzdGVfbl9ncmV5LnBuZ64AHgABABEAdGJfMTZf
+          cGFzdGVfbi5naWYArgAEALUDAwAHABIACwAJMlM2UzdTOFM5UwA=
+      - type: 0xff5e
+        opaque: |
+          Xv9YAAAAAAAAAAAAPAAAAAAAAAAAAAAAAAAAADwAAAAqAAEABgBQX2FzdGUAAAAAAAAAACJAhwEiAgEA
+          BgBDdHJsK1YiAgMABwAQAAkACTFTMlM2UzdTAA==
+      - type: 0xffbe
+        Flags: 0x14014080
+        IconIndex: 0
+        ShareId: 56
+        Type: 1
+        title: rt click - Menu Separator
+      - type: 0xff5e
+        opaque: Xv8cAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA==
+      - type: 0xffbe
+        Flags: 0x1010419c
+        IconIndex: 7
+        ShareId: 0
+        Type: 5
+        opaque: LQAECg==
+        title: rt click - Forward
+      - type: 0xfff6
+        opaque: |
+          9v+iAAEAAAADABMAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAACgAEAAAAaAABABYAJEFjdGlvbkJhcldp
+          dGhvdXRJY29uc/sBZwGvAEIAIAABABYAYWN0X2ZvcndhcmRhc21haWxfZ3Jlea4AIgABABUAYWN0X2Zv
+          cndhcmRhc21haWwucG5nAK4ABAC1AwMABwASAAsACTJTNlM3UzhTOVMA
+      - type: 0xff5e
+        opaque: Xv8wAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAAABQAAAASAAEACABGX29yd2FyZAMA
+      - type: 0xffbe
+        Flags: 0x14014080
+        IconIndex: 0
+        ShareId: 56
+        Type: 1
+        title: rt click - Menu Separator
+      - type: 0xff5e
+        opaque: Xv8cAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA==
+      - type: 0xffbe
+        Flags: 0x5000419c
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: LwB+fA==
+        title: rt click - Open in New Window
+      - type: 0xff5e
+        opaque: Xv88AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAACAAAAAeAAEAEwBPcGVfbiBpbiBOZXcgV2luZG93AAMA
+      - type: 0xffbe
+        Flags: 0x5010419c
+        IconIndex: 98
+        ShareId: 0
+        Type: 4
+        opaque: MACOfA==
+        title: rt click - Print...
+      - type: 0xfff6
+        opaque: |
+          9v+OAAEAAAADABMAbAAAAAAAAAAAAAAAAAAAAAAAAAAAAGwACgAEAAAAVAABABYAJEFjdGlvbkJhcldp
+          dGhvdXRJY29uc/sBZwGvAC4AGAABAA4AcHJpbnRfZ3JleS5wbmeuABYAAQAJAHByaW50LnBuZwCuAAQA
+          tQMDAAcAEgALAAkyUzZTN1M4UzlTAA==
+      - type: 0xff5e
+        opaque: |
+          Xv9cAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAuAAEACQBfUHJpbnQuLi4AAAAAAAAAAAAiQIcB
+          IgIBAAYAQ3RybCtQIgIDAAcAEAAJAAkxUzJTNlM3UwA=
+      - type: 0xffbe
+        Flags: 0x14014080
+        IconIndex: 0
+        ShareId: 56
+        Type: 1
+        title: rt click - Menu Separator
+      - type: 0xff5e
+        opaque: Xv8cAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA==
+      - type: 0xffbe
+        Flags: 0x5010419c
+        IconIndex: 109
+        ShareId: 0
+        Type: 4
+        opaque: MgCefA==
+        title: rt click - Delete
+      - type: 0xfff6
+        opaque: |
+          9v8eAQEAAAADABMA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAPwACgAEAAAAygD7AEsBHgGvALwAYAABABYA
+          JEFjdGlvbkJhcldpdGhvdXRJY29uc/sBZwGvADoAHgABABQAbm9zb2Z0ZGVsZXRlZ3JleS5wbmeuABwA
+          AQAQAG5vU29mdERlbGV0ZS5naWauAAQAtQOuAFwAAQAWACRBY3Rpb25CYXJXaXRob3V0SWNvbnP7AWcB
+          rwA0ABQAAQAJAHRyYXNoLnBuZwCuACAAAQATAGFjdF90cmFzaGRlbGV0ZS5naWYArgAEALUDrgAEALUD
+          AwAHACwAJQAJNVM3UzExUzEyUzEzUzE0UzE3UzJFMTlTMjNTMjRTMjVTMjZTAA==
+      - type: 0xff5e
+        opaque: |
+          Xv9YAAAAAAAAAAAAPAAAAAAAAAAAAAAAAAAAADwAAAAqAAEABwBfRGVsZXRlAAAAAAAAAAAAIkCHASIC
+          AQADAERlbAAiAgMABwAQAAkACTFTMlM2UzdTAA==
+remaining: []

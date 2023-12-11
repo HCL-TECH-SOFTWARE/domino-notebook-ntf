@@ -1,0 +1,48 @@
+---
+class: 4
+flags: 0x2000
+unid: OFD78E538C65BC7CF4-ON003F0C2C852573C5
+items:
+  - name: $DesignerVersion
+    type: text
+    data: "5"
+    signed: true
+  - name: $Flags
+    type: text
+    data: 34CiQ
+  - name: $ImageNames
+    type: text
+    data: views.gif
+    signed: true
+  - name: $ImagesColorize
+    type: number
+    data: 0
+    signed: true
+  - name: $ImagesHigh
+    type: number
+    data: 1
+    signed: true
+  - name: $ImagesWide
+    type: number
+    data: 1
+    signed: true
+  - name: $LANGUAGE
+    type: text
+    data: en
+    signed: true
+  - name: $MimeType
+    type: text
+    data: image/gif
+    signed: true
+  - name: $PublicAccess
+    type: text
+    data: "1"
+    signed: true
+  - name: $TITLE
+    type: text
+    data: view.gif
+  - name: $ImageData
+    type: composite
+    signed: true
+    nonsummary: true
+remaining: []

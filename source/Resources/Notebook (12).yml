@@ -1,0 +1,89 @@
+---
+class: 32784
+flags: 0x0000
+unid: OF582FE50FD1C5BA51-ON004F361885256207
+items:
+  - name: $Daos
+    type: text
+    data: "0"
+  - name: $DefaultFrameset
+    type: text
+    data: NewJournalFrameset
+  - name: $DefaultWebFrameset
+    type: text
+    data: WebJournalFrameset
+  - name: $Flags
+    type: text
+    data: JFR4jSI7
+  - name: $FlagsNoRefresh
+    type: text
+    data: ""
+  - name: $LANGUAGE
+    type: text
+    data:
+      - en
+  - name: $LargeSummary
+    type: text
+    data: "0"
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2018-08-16T09:47:24.01-04:00"
+        dst: true
+      - data: "2018-08-16T10:30:04.62-04:00"
+        dst: true
+      - data: "2018-08-16T10:30:04.64-04:00"
+        dst: true
+      - data: "2018-08-16T10:30:04.71-04:00"
+        dst: true
+      - data: "2018-08-16T10:30:04.73-04:00"
+        dst: true
+      - data: "2018-08-16T10:30:07.62-04:00"
+        dst: true
+      - data: "2019-04-29T18:45:54.66-04:00"
+        dst: true
+      - data: "2021-07-19T16:15:47.45+05:30"
+      - data: "2021-07-19T16:38:08.29+05:30"
+      - data: "2021-07-19T16:38:08.34+05:30"
+      - data: "2021-07-19T16:38:08.50+05:30"
+      - data: "2021-07-19T16:38:08.51+05:30"
+      - data: "2021-07-19T07:09:10.42-04:00"
+        dst: true
+      - data: "2022-07-20T18:13:33.26+05:30"
+      - data: "2022-07-20T18:15:23.07+05:30"
+      - data: "2022-07-20T18:19:58.32+05:30"
+      - data: "2022-07-20T18:19:58.34+05:30"
+      - data: "2022-07-20T18:19:58.52+05:30"
+      - data: "2022-07-20T18:19:58.53+05:30"
+      - data: "2022-07-20T08:50:50.56-04:00"
+        dst: true
+  - name: $TITLE
+    type: text
+    data: |
+      Notebook (12)
+      #1Std12Notebook
+  - name: $TemplateFileName
+    type: text
+    data: "d:\\data\\journal5.ntf"
+  - name: $TemplateModTime
+    type: time
+    data: "1999-02-24T13:11:14.60-05:00"
+  - name: $TemplateServerName
+    type: text
+    data: CN=Debbie Branco/O=Iris
+  - name: IconBitmap
+    type_num: 6
+    type: opaque
+    opaque: |
+      AiAgAQAA//j//+AAAAfAAAAHwAAAB8AAAAfAAAAHwAAAB8AAAAfAAAAHwAAAB8AAAAfAAAAHwAAAB8AA
+      AAfAAAADwAAAAcAAAADAAAAAwAAAAcAAAAfAAAAHwAAAB8AAAAfAAAAHwAAAB8AAAAfAAAAHwAAAB8AA
+      AAfAAAAP//////////8AAAAAAAAAAAAAAAAAAAAAAA///////h8P///////wAADMzMzMzM4R8MzMzMzM
+      8AAAwWHBYWFh4R8GFhYc/PAAAMZmxmZmZm4R8GZmbPzwAADBYcFmZmZm4R8GZhz88AAAxmbGZmZmZm4R
+      8GZs/PAAAMFhwWZmZmZm4R8GHPzwAADGZsYWYWYWYW4R8Gz88AAAwWHBZhZhZhZh4R/s/PAAAMZmxhZh
+      ZhZhZh4R/vzwAADBYcERZhFmEWYW4P/s8AAAxhbGYWFhYWFhYW4P/vAAAMFhwRYWFhYWFhYW4P/gAADG
+      FsZhYWFhYWFhYW4P/gAAwWHBGRERERkREREc4P/gAMYWxmmWFhaZYWFhbP4P/gDBYcEZGREZGRERERz8
+      4f4AxhbGaRGRkRlhYWFs/P7gAMERwRkZGRkZERERHPzwAADGFsYZGZGZGWERYWz88AAAwWHBaRmZmRkR
+      YREc/PAAAMYWxhkZOTkZERERbPzwAADBEcFpE5OTGWERYRz88AAAxhbGGR4+PhkRERFs/PAAAMERwRkf
+      Pz8ZERERHPzwAADGFsYZE2NjGREREWz88AAAwRHBGRY2NhkREREc/PAAAMYWxhkREREZYWFhbPzwAADM
+      zMzJmZmZmczMzMzMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+remaining: []

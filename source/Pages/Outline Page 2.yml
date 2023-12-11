@@ -1,0 +1,132 @@
+---
+class: 4
+flags: 0x0000
+unid: OFB27111F98C41CB35-ON005F3D2B85256C1C
+items:
+  - name: $$ScriptName
+    type: text
+    data: Outline Page 2
+    signed: true
+    nonsummary: true
+  - name: $DesignerVersion
+    type: text
+    data: "8"
+    signed: true
+  - name: $Flags
+    type: text
+    data: C34WQw
+  - name: $LANGUAGE
+    type: text
+    data: en
+    signed: true
+  - name: $NoBackgroundOverride
+    type: text
+    data: "1"
+    signed: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2007-12-18T14:01:55.24-05:00"
+      - data: "2008-01-03T06:14:06.11-05:00"
+      - data: "2008-01-09T05:27:41.80-05:00"
+  - name: $TITLE
+    type: text
+    data: Outline Page 2
+  - name: OriginalModTime
+    type: time
+    data: "2005-01-27T10:18:16.05-05:00"
+    signed: true
+  - name: $Body
+    type: composite
+    signed: true
+    nonsummary: true
+    data:
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1080
+        Flags: 0x0100
+        Flags2: 0x8494
+        JustifyMode: 0
+        LeftMargin: 1080
+        LineSpacing: 0
+        PABID: 1
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 1080
+          - 0
+          - 1080
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 1
+      - type: 0xff85
+        FontID: 0xa000001
+      - type: 0x00dd
+        Signature: 0xffad
+        Version: 0
+      - type: 0xffad
+        opaque: rf8bABsACAAAAA8ASm91cm5hbE91dGxpbmUA
+      - type: 0xffea
+        opaque: |
+          6v8+ABsAAYQAAGMAvAcBAAAKAAAAAAAAAAABAAAKAQAACgAAAQD///8AAQAAAAAAAAAAAAAAAAAAAAAA
+          AAA=
+      - type: 0xffec
+        opaque: |
+          7P8WAagHggEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADoAAAAgAQAAjAEgAQgAAAABAAAKAQAACgEA
+          AAoBAAAKAQAACgEAAAoAAAAAAAAAAIwBjAEAAAMAAwAFAP///wAFAP///wAFAP///wAFAP///wAFAP//
+          /wABANHf7QABANHf7QAFAP///wABANHf7QABANHf7QABAAAAAAABAAAAAAABAAAAAAAAAAAAAAAAAAAA
+          AAADAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAQAAAAAAAQAAAAAAAQAAAAAAAQAAAAAA
+          AQAAAAAAAAATAAAAAAAAAAAAAAAAAAAAAAAAAAAASk91dGxpbmU=
+      - type: 0x00ae
+        opaque: rgI=
+      - type: 0x00de
+        Signature: 0x00ae
+        Version: 0
+      - type: 0xff85
+        FontID: 0xa000001
+  - name: $HTMLCode
+    signed: true
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: X/8QAAIADwAHAAAAAAAAAA==
+  - name: $HTMLDocumentStyles
+    signed: true
+    type: opaque
+    type_num: 1
+    opaque: 0ggBAAAA/wDSCAEA/wAAANIIAQCAAIAA
+  - name: $Info
+    signed: true
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: hhgBAIAAAAAAgAAAAQABAP///wACAAAA
+remaining: []

@@ -1,0 +1,41 @@
+---
+class: 4
+flags: 0x0000
+unid: OF529D340D7DECB49C-ON005A0994852569A8
+items:
+  - name: $Comment
+    type: text
+    data: ""
+    signed: true
+  - name: $DesignerVersion
+    type: text
+    data: "8"
+    signed: true
+  - name: $Flags
+    type: text
+    data: "#34CQ"
+  - name: $LANGUAGE
+    type: text
+    data: en
+    signed: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2007-12-18T13:59:48.77-05:00"
+      - data: "2008-01-22T12:52:21.32-05:00"
+  - name: $TITLE
+    type: text
+    data: View Frame|View Frame
+    signed: true
+  - name: $FrameSet
+    signed: true
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      7/8YAAIAAwAAAAAAAAAAAAAAAAAAAAAA8P8+AEUAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAUAAAAAAAIA
+      AQAAAAAAAQB5qdIAAAACAGIAAQAAAAMAAQDx/0kAAQAAAABAAAADAAEAAQAAAAAACQAAAAwAAQB5qdIA
+      AABOb3Rlc1ZpZXdOb3Rlc1ByZXZpZXcBAP///xQBAAAKAQAAAAAUP/b/LQAAAAAAAwACAAsAAAAAAAAA
+      AAAAAAAAAAAAAAAAAABCeSBDYXRlZ29yeT/x/1wA4QAAAABgAAADAAEAAQAAAAAADAAAAAAAAQB5qdIA
+      AABOb3Rlc1ByZXZpZXcUABQAAAASAAEABwBQcmV2aWV3AAMAAAACACgAAQCpwNcUAgAACQEAAECAFA==
+remaining: []

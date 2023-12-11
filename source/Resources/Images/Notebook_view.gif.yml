@@ -1,0 +1,51 @@
+---
+class: 4
+flags: 0x0000
+unid: OF9417D38DA5BD3B98-ON0067EF31852573C9
+items:
+  - name: $DesignerVersion
+    type: text
+    data: "8"
+    signed: true
+  - name: $Flags
+    type: text
+    data: D34CiQ
+  - name: $FlagsExt
+    type: text
+    data: D
+    signed: true
+  - name: $ImageNames
+    type: text
+    data: Notebook_view.gif
+    signed: true
+  - name: $ImagesColorize
+    type: number
+    data: 0
+    signed: true
+  - name: $ImagesHigh
+    type: number
+    data: 1
+    signed: true
+  - name: $ImagesWide
+    type: number
+    data: 1
+    signed: true
+  - name: $LANGUAGE
+    type: text
+    data: en
+    signed: true
+  - name: $MimeType
+    type: text
+    data: image/gif
+    signed: true
+  - name: $Revisions
+    type: time
+    data: "2008-01-07T13:55:14.60-05:00"
+  - name: $TITLE
+    type: text
+    data: Notebook_view.gif
+  - name: $ImageData
+    type: composite
+    signed: true
+    nonsummary: true
+remaining: []

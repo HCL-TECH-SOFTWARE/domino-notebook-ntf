@@ -1,0 +1,50 @@
+---
+class: 4
+flags: 0x0000
+unid: OF0898F0D2209F1FDF-ON004D801F85257AA7
+items:
+  - name: $DesignerVersion
+    type: text
+    data: 8.5.3
+    signed: true
+  - name: $Flags
+    type: text
+    data: 34Ci~Q
+  - name: $ImageNames
+    type: text
+    data: "C:\\12.0.1 WORK\\ICON WORK\\Workspace Icons and UI\\64x64 icons\\Notebook.png"
+    signed: true
+  - name: $ImagesColorize
+    type: number
+    data: 0
+    signed: true
+  - name: $ImagesHigh
+    type: number
+    data: 1
+    signed: true
+  - name: $ImagesWide
+    type: number
+    data: 1
+    signed: true
+  - name: $LANGUAGE
+    type: text
+    data: en
+    signed: true
+  - name: $MimeType
+    type: text
+    data: image/png
+    signed: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2012-10-30T10:06:31.11-04:00"
+        dst: true
+      - data: "2021-07-19T16:15:47.51+05:30"
+  - name: $TITLE
+    type: text
+    data: $DBIcon
+  - name: $ImageData
+    type: composite
+    signed: true
+    nonsummary: true
+remaining: []

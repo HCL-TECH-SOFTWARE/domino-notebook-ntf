@@ -1,0 +1,43 @@
+---
+class: 4
+flags: 0x0000
+unid: OF205859D524C44230-ON003FFFBC852573C4
+items:
+  - name: $DesignerVersion
+    type: text
+    data: 8.5.3
+    signed: true
+  - name: $FileNames
+    type: text
+    data: Notes Notebook Application.xml
+    signed: true
+  - name: $Flags
+    type: text
+    data: 34567C|Q
+  - name: $FlagsExt
+    type: text
+    data: "1"
+    signed: true
+  - name: $LANGUAGE
+    type: text
+    data: en
+    signed: true
+  - name: $Revisions
+    type: time
+    data: "2008-01-02T06:39:02.90-05:00"
+  - name: $SourceSeqTime
+    type: time
+    data: "2008-01-02T06:39:02.90-05:00"
+    signed: true
+  - name: $SourceSequence
+    type: text
+    data: "00000001"
+    signed: true
+  - name: $TITLE
+    type: text
+    data: Notes Notebook Application.xml
+  - name: $FileData
+    type: composite
+    signed: true
+    nonsummary: true
+remaining: []
