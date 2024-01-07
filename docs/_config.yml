@@ -1,12 +1,12 @@
 # Site settings
 theme: jekyll-theme-minimal
 remote_theme: pmarsceill/just-the-docs
-title: HCL Domino on AWS
-description: HCL Domino on Amazon Web Services
+title: Notebook Template
+description: HCL Domino Template "Notebook"
 version: 1.0
 
-git_url: "https://github.com/HCL-TECH-SOFTWARE/domino-ntf"
-baseurl: "/domino-ntf"
+git_url: "https://github.com/HCL-TECH-SOFTWARE/domino-notebook-ntf"
+baseurl: "/domino-notebook-ntf"
 permalink: pretty
 exclude:
   [
@@ -27,7 +27,7 @@ favicon_ico: "/assets/images/favicon.ico"
 # External navigation links
 nav_external_links:
   - title: Report an issue
-    url: https://github.com/HCL-TECH-SOFTWARE/domino-on-aws/issues
+    url: https://github.com/HCL-TECH-SOFTWARE/domino-notebook-/issues
     hide_icon: false
 
 # Enable or disable the site search
