@@ -28,7 +28,7 @@ Filename | notebook12_EN.ntf
 Templatename | Std12Notebook
 Template version | 12.0.2
 Signed by | Open Source Template/Domino Development
-Optimized for | Notes Client & Web
+Optimized for | Notes Client
 
 ## Creating a Notebook entry
 A Notebook entry  is the default document in your Notebook application. Click New to create a new Notebook entry.
