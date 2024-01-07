@@ -17,7 +17,7 @@ An HCL Domino template to create, categorize, and print Notebook entries. Your N
 {:toc}
 </details>
 
-![Screenshot Notebook](assets/jpg/screenshot.jpg)
+![Screenshot Notebook](assets/images/png/screenshot.png)
 
 
 ## Info
